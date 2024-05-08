@@ -60,6 +60,7 @@
                 android:ems="10"
                 android:hint="Title or Author"
                 android:inputType="text"
+                android:textColor="#1E1E1E"
                 android:paddingLeft="10dp"
                 android:textSize="24sp" />
 
@@ -100,6 +101,7 @@
             android:id="@+id/bottomNavigationView"
             android:layout_width="match_parent"
             android:layout_height="50dp"
+            android:background="#E7F9FB"
             app:itemHorizontalTranslationEnabled="true"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"

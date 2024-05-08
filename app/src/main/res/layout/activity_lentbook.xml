@@ -104,6 +104,7 @@
                         android:paddingBottom="10dp"
                         android:text="Title:"
                         android:textAlignment="viewStart"
+                        android:textColor="#1E1E1E"
                         android:textSize="28sp"
                         tools:paddingTop="10dp" />
 
@@ -131,6 +132,7 @@
                         android:paddingBottom="10dp"
                         android:text="Greek Title:"
                         android:textAlignment="viewStart"
+                        android:textColor="#1E1E1E"
                         android:textSize="26sp"
                         tools:paddingTop="10dp" />
 
@@ -158,6 +160,7 @@
                         android:paddingBottom="10dp"
                         android:text="Author:"
                         android:textAlignment="viewStart"
+                        android:textColor="#1E1E1E"
                         android:textSize="28sp"
                         tools:paddingTop="10dp" />
 
@@ -185,6 +188,7 @@
                         android:paddingBottom="10dp"
                         android:text="ISBN:"
                         android:textAlignment="viewStart"
+                        android:textColor="#1E1E1E"
                         android:textSize="28sp"
                         tools:paddingTop="10dp" />
 
@@ -212,6 +216,7 @@
                         android:paddingBottom="10dp"
                         android:text="User:"
                         android:textAlignment="viewStart"
+                        android:textColor="#1E1E1E"
                         android:textSize="28sp"
                         tools:paddingTop="10dp" />
 
@@ -239,6 +244,7 @@
                         android:paddingBottom="10dp"
                         android:text="Return Date:"
                         android:textAlignment="viewStart"
+                        android:textColor="#1E1E1E"
                         android:textSize="26sp"
                         tools:paddingTop="10dp" />
 
@@ -264,6 +270,7 @@
                         android:paddingBottom="10dp"
                         android:text="Location: Eth. Aminis 27, 546 21"
                         android:textAlignment="center"
+                        android:textColor="#1E1E1E"
                         android:textSize="24sp"
                         tools:paddingTop="10dp" />
 

@@ -116,6 +116,7 @@ public class BrowseActivity extends AppCompatActivity {
             textView.setPadding(0, 10, 0, 10);
             textView.setText(book.getEnglishTitle());
             textView.setTextSize(28);
+            textView.setTextColor(0xFF1E1E1E);
             textView.setLayoutParams(layoutParams);
             textView.setGravity(Gravity.CENTER);
             textView.setOnClickListener(new View.OnClickListener() {
