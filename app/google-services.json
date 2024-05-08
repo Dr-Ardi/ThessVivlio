@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165268785717",
+    "project_id": "thessvivlio",
+    "storage_bucket": "thessvivlio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165268785717:android:a87eea372b8ab745997f7c",
+        "android_client_info": {
+          "package_name": "com.example.thessvivlio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Gb1dU2c8DTwcqo8ykmdlkaO_qDMTpRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

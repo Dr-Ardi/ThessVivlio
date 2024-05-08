@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThessVivlio</string>
+    <string name="browse">Browse Library</string>
+    <string name="borrowed_books">Borrowed Books</string>
+    <string name="booked">Booked Books</string>
+    <string name="title_activity_menu">MenuActivity</string>
+</resources>
